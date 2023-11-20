@@ -1,3 +1,3 @@
 # The Gimel Programming Language
-God's acutal programming language in hebrew.
+God's actual programming language in Hebrew.
 

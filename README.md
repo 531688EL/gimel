@@ -1,2 +1,2 @@
 # gimel
-Gods really acuallty programming language
+Gods really actually programming language

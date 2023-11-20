@@ -8,7 +8,7 @@
 ### Commmands
 
 print - `תצעק`
-exit - `יציאה`
+exit - `די-מספיק`
 variable - `מכריז בזאת`
 function - `בראשית`
 for - `סעמק`

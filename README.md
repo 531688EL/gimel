@@ -7,11 +7,11 @@
 
 ### Commmands
 
-print - `תצעק` <br>
-exit - `יציאה` <br>
-variable - `מכריז בזאת` <br>
-function - `בראשית` <br>
-for - `סעמק` <br>
-while - `כוסעמק` <br> 
-if - `וואלה-מה-אם` <br>
-else - `וואלה-לא` <br>
+print - `תצעק`
+exit - `די-מספיק`
+variable - `מכריז בזאת`
+function - `בראשית`
+for - `סעמק`
+while - `כוסעמק`
+if - `וואלה-מה-אם`
+else - `וואלה-לא`
